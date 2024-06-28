@@ -17,4 +17,4 @@ keytool -delete -alias sslvaultdev -keystore C:\Users\sasakinme\.jdks\corretto-1
 keytool -delete -alias sslos-10 -keystore C:\Users\sasakinme\.jdks\corretto-17.0.9\lib\security\cacerts
 keytool -delete -alias sslos-4 -keystore C:\Users\sasakinme\.jdks\corretto-17.0.9\lib\security\cacerts
 keytool -delete -alias nxs-1 -keystore C:\Users\sasakinme\.jdks\corretto-17.0.9\lib\security\cacerts
-keytool -delete -alias sslnexus -keystore C:\Users\sasakinme\.jdks\corretto-17.0.9\lib\security\cacerts
+keytool -delete -alias sslnexus -keystore C:\Users\sasakinme\.jdks\corretto-17.0.9\lib\security\cacerts 
