@@ -1,0 +1,35 @@
+version: '3.8'
+services:
+  sheet-sage:
+    image: chrisdonahue/sheetsage:2023.04.28
+    hostname: sheet-sage
+    environment:
+      - SHEETSAGE_CACHE_DIR=/sheetsage/cache
+      - DOCKER_LINK_LIB_ARG=/sheetsage/sheetsage
+    volumes:
+      - ./sheetsage:/sheetsage
+      - ./sheetsage_cache:/sheetsage/cache
+    command: |
+      bash -c '
+      wget https://raw.githubusercontent.com/chrisdonahue/sheetsage/main/prepare.sh && 
+      wget https://raw.githubusercontent.com/chrisdonahue/sheetsage/main/sheetsage.sh &&
+      ls && chmod +x *.sh &&
+      mkdir -p ./sheetsage/cache &&
+      while [[ $# -gt 0 ]]; do
+        case $1 in
+          -j|--use_jukebox)
+            JUKEBOX_CMD="&& python -m sheetsage.assets SHEETSAGE_V02_JUKEBOX && python -m sheetsage.assets JUKEBOX "
+            shift
+            ;;
+          *)
+            echo "Unknown option $1"
+            exit 1
+            ;;
+        esac
+      done
+      python -m sheetsage.assets SHEETSAGE_V02_HANDCRAFTED ${JUKEBOX_CMD}
+      '
+
+volumes:
+  data:
+    driver: local

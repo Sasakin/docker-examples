@@ -1,0 +1,248 @@
+(N) 2024-01-20T13:17:29 - qBittorrent v4.6.3 started
+(N) 2024-01-20T13:17:29 - Using config directory: /config/qBittorrent
+(N) 2024-01-20T13:17:29 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-01-20T13:17:29 - Peer ID: "-qB4630-"
+(I) 2024-01-20T13:17:29 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-01-20T13:17:29 - Distributed Hash Table (DHT) support: ON
+(I) 2024-01-20T13:17:29 - Local Peer Discovery support: ON
+(I) 2024-01-20T13:17:29 - Peer Exchange (PeX) support: ON
+(I) 2024-01-20T13:17:29 - Anonymous mode: OFF
+(I) 2024-01-20T13:17:29 - Encryption support: ON
+(I) 2024-01-20T13:17:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-01-20T13:17:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-01-20T13:17:29 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-01-20T13:17:29 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(W) 2024-01-20T13:17:29 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-01-20T13:17:29 - Using built-in WebUI.
+(W) 2024-01-20T13:17:29 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-01-20T13:17:29 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-01-20T13:17:30 - Detected external IP. IP: "62.217.191.71"
+(I) 2024-01-20T13:17:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Jan 2 02:14:23 2024.
+(I) 2024-01-20T13:17:30 - Successfully updated IP geolocation database.
+(W) 2024-01-20T13:21:30 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.19.0.1, username: admin
+(W) 2024-01-20T13:21:38 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.19.0.1, username: admin
+(W) 2024-01-20T13:22:24 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.19.0.1, username: admin
+(W) 2024-01-20T13:23:20 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.19.0.1, username: admin
+(N) 2024-01-20T13:23:26 - qBittorrent termination initiated
+(N) 2024-01-20T13:23:26 - qBittorrent is now ready to exit
+(N) 2024-01-20T13:23:41 - qBittorrent v4.6.3 started
+(N) 2024-01-20T13:23:41 - Using config directory: /config/qBittorrent
+(N) 2024-01-20T13:23:41 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-01-20T13:23:41 - Peer ID: "-qB4630-"
+(I) 2024-01-20T13:23:41 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-01-20T13:23:41 - Distributed Hash Table (DHT) support: ON
+(I) 2024-01-20T13:23:41 - Local Peer Discovery support: ON
+(I) 2024-01-20T13:23:41 - Peer Exchange (PeX) support: ON
+(I) 2024-01-20T13:23:41 - Anonymous mode: OFF
+(I) 2024-01-20T13:23:42 - Encryption support: ON
+(I) 2024-01-20T13:23:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-01-20T13:23:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-01-20T13:23:42 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-01-20T13:23:42 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-01-20T13:23:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Jan 2 02:14:23 2024.
+(N) 2024-01-20T13:23:42 - Using built-in WebUI.
+(W) 2024-01-20T13:23:42 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-01-20T13:23:42 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-01-20T13:24:12 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.19.0.1, username: admin
+(N) 2024-01-20T13:25:52 - qBittorrent v4.6.3 started
+(N) 2024-01-20T13:25:52 - Using config directory: /config/qBittorrent
+(N) 2024-01-20T13:25:52 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-01-20T13:25:52 - Peer ID: "-qB4630-"
+(I) 2024-01-20T13:25:52 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-01-20T13:25:52 - Distributed Hash Table (DHT) support: ON
+(I) 2024-01-20T13:25:52 - Local Peer Discovery support: ON
+(I) 2024-01-20T13:25:52 - Peer Exchange (PeX) support: ON
+(I) 2024-01-20T13:25:52 - Anonymous mode: OFF
+(I) 2024-01-20T13:25:52 - Encryption support: ON
+(I) 2024-01-20T13:25:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-01-20T13:25:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-01-20T13:25:52 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-01-20T13:25:52 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-01-20T13:25:52 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Jan 2 02:14:23 2024.
+(N) 2024-01-20T13:25:52 - Using built-in WebUI.
+(W) 2024-01-20T13:25:52 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-01-20T13:25:52 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-01-20T13:26:29 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.19.0.1, username: admin
+(N) 2024-01-20T13:27:07 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-01-20T13:39:24 - Added new torrent. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes"
+(I) 2024-01-20T13:39:25 - Detected external IP. IP: "62.217.191.71"
+(N) 2024-01-20T16:00:53 - Torrent download finished. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes"
+(N) 2024-01-20T16:02:18 - Torrent paused. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes"
+(N) 2024-01-20T16:10:04 - qBittorrent termination initiated
+(N) 2024-01-20T16:10:04 - qBittorrent is now ready to exit
+(N) 2024-01-20T16:56:15 - qBittorrent v4.6.3 started
+(N) 2024-01-20T16:56:15 - Using config directory: /config/qBittorrent
+(N) 2024-01-20T16:56:15 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-01-20T16:56:15 - Peer ID: "-qB4630-"
+(I) 2024-01-20T16:56:15 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-01-20T16:56:15 - Distributed Hash Table (DHT) support: ON
+(I) 2024-01-20T16:56:15 - Local Peer Discovery support: ON
+(I) 2024-01-20T16:56:15 - Peer Exchange (PeX) support: ON
+(I) 2024-01-20T16:56:15 - Anonymous mode: OFF
+(I) 2024-01-20T16:56:15 - Encryption support: ON
+(I) 2024-01-20T16:56:15 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-01-20T16:56:15 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-01-20T16:56:15 - Successfully listening on IP. IP: "172.20.0.2". Port: "TCP/6881"
+(I) 2024-01-20T16:56:15 - Successfully listening on IP. IP: "172.20.0.2". Port: "UTP/6881"
+(N) 2024-01-20T16:56:15 - Restored torrent. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes"
+(I) 2024-01-20T16:56:15 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Jan 2 02:14:23 2024.
+(N) 2024-01-20T16:56:15 - Using built-in WebUI.
+(W) 2024-01-20T16:56:15 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-01-20T16:56:15 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-01-20T16:56:15 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes". Reason: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes fast resume rejected. file_stat(/downloads/ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes/ELDEN RING/Game/Data2.bdt): mismatching file size"
+(N) 2024-01-20T16:56:44 - WebAPI login success. IP: ::ffff:172.20.0.1
+(N) 2024-01-20T16:57:57 - Added new torrent. Torrent: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG"
+(I) 2024-01-20T16:57:57 - Detected external IP. IP: "62.217.191.71"
+(N) 2024-01-20T16:58:18 - Removed torrent. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes"
+(N) 2024-01-21T00:31:08 - Torrent download finished. Torrent: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG"
+(N) 2024-01-21T00:31:08 - qBittorrent termination initiated
+(N) 2024-01-21T00:31:11 - qBittorrent is now ready to exit
+(N) 2024-01-21T10:39:10 - qBittorrent v4.6.3 started
+(N) 2024-01-21T10:39:10 - Using config directory: /config/qBittorrent
+(N) 2024-01-21T10:39:10 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-01-21T10:39:10 - Peer ID: "-qB4630-"
+(I) 2024-01-21T10:39:10 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-01-21T10:39:10 - Distributed Hash Table (DHT) support: ON
+(I) 2024-01-21T10:39:10 - Local Peer Discovery support: ON
+(I) 2024-01-21T10:39:10 - Peer Exchange (PeX) support: ON
+(I) 2024-01-21T10:39:10 - Anonymous mode: OFF
+(I) 2024-01-21T10:39:10 - Encryption support: ON
+(I) 2024-01-21T10:39:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-01-21T10:39:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-01-21T10:39:10 - Successfully listening on IP. IP: "172.20.0.2". Port: "TCP/6881"
+(I) 2024-01-21T10:39:10 - Successfully listening on IP. IP: "172.20.0.2". Port: "UTP/6881"
+(N) 2024-01-21T10:39:10 - Restored torrent. Torrent: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG"
+(I) 2024-01-21T10:39:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Jan 2 02:14:23 2024.
+(N) 2024-01-21T10:39:10 - Using built-in WebUI.
+(W) 2024-01-21T10:39:10 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-01-21T10:39:10 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-01-21T10:39:10 - Detected external IP. IP: "62.217.191.71"
+(N) 2024-01-21T19:54:04 - qBittorrent termination initiated
+(N) 2024-01-21T19:54:10 - qBittorrent is now ready to exit
+(N) 2024-02-07T13:25:40 - qBittorrent v4.6.3 started
+(N) 2024-02-07T13:25:40 - Using config directory: /config/qBittorrent
+(N) 2024-02-07T13:25:40 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-02-07T13:25:40 - Peer ID: "-qB4630-"
+(I) 2024-02-07T13:25:40 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-02-07T13:25:40 - Distributed Hash Table (DHT) support: ON
+(I) 2024-02-07T13:25:40 - Local Peer Discovery support: ON
+(I) 2024-02-07T13:25:40 - Peer Exchange (PeX) support: ON
+(I) 2024-02-07T13:25:40 - Anonymous mode: OFF
+(I) 2024-02-07T13:25:40 - Encryption support: ON
+(I) 2024-02-07T13:25:40 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-02-07T13:25:40 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-02-07T13:25:40 - Successfully listening on IP. IP: "172.20.0.2". Port: "TCP/6881"
+(I) 2024-02-07T13:25:40 - Successfully listening on IP. IP: "172.20.0.2". Port: "UTP/6881"
+(N) 2024-02-07T13:25:40 - Restored torrent. Torrent: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG"
+(I) 2024-02-07T13:25:40 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Jan 2 02:14:23 2024.
+(N) 2024-02-07T13:25:41 - Using built-in WebUI.
+(W) 2024-02-07T13:25:41 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-02-07T13:25:41 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-02-07T13:25:42 - Detected external IP. IP: "62.217.191.71"
+(N) 2024-02-07T13:26:19 - WebAPI login success. IP: ::ffff:172.20.0.1
+(I) 2024-02-07T13:26:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Feb 1 04:17:55 2024.
+(I) 2024-02-07T13:26:23 - Successfully updated IP geolocation database.
+(N) 2024-02-07T13:27:57 - qBittorrent termination initiated
+(N) 2024-02-07T13:27:57 - qBittorrent is now ready to exit
+(N) 2024-02-08T20:41:08 - qBittorrent v4.6.3 started
+(N) 2024-02-08T20:41:08 - Using config directory: /config/qBittorrent
+(N) 2024-02-08T20:41:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-02-08T20:41:08 - Peer ID: "-qB4630-"
+(I) 2024-02-08T20:41:08 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-02-08T20:41:08 - Distributed Hash Table (DHT) support: ON
+(I) 2024-02-08T20:41:08 - Local Peer Discovery support: ON
+(I) 2024-02-08T20:41:08 - Peer Exchange (PeX) support: ON
+(I) 2024-02-08T20:41:08 - Anonymous mode: OFF
+(I) 2024-02-08T20:41:08 - Encryption support: ON
+(I) 2024-02-08T20:41:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-02-08T20:41:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-02-08T20:41:08 - Successfully listening on IP. IP: "172.20.0.2". Port: "TCP/6881"
+(I) 2024-02-08T20:41:08 - Successfully listening on IP. IP: "172.20.0.2". Port: "UTP/6881"
+(N) 2024-02-08T20:41:08 - Restored torrent. Torrent: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG"
+(I) 2024-02-08T20:41:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Feb 1 04:17:55 2024.
+(N) 2024-02-08T20:41:08 - Using built-in WebUI.
+(W) 2024-02-08T20:41:08 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-02-08T20:41:08 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-02-08T20:41:08 - Detected external IP. IP: "62.217.191.71"
+(N) 2024-02-08T20:42:02 - WebAPI login success. IP: ::ffff:172.20.0.1
+(N) 2024-02-08T20:47:07 - Added new torrent. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes"
+(N) 2024-02-08T22:37:27 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2024-02-08T23:34:15 - Torrent download finished. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes"
+(N) 2024-02-08T23:48:07 - qBittorrent termination initiated
+(N) 2024-02-08T23:48:07 - qBittorrent is now ready to exit
+(N) 2024-02-17T20:57:29 - qBittorrent v4.6.3 started
+(N) 2024-02-17T20:57:29 - Using config directory: /config/qBittorrent
+(N) 2024-02-17T20:57:29 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-02-17T20:57:29 - Peer ID: "-qB4630-"
+(I) 2024-02-17T20:57:29 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-02-17T20:57:29 - Distributed Hash Table (DHT) support: ON
+(I) 2024-02-17T20:57:29 - Local Peer Discovery support: ON
+(I) 2024-02-17T20:57:29 - Peer Exchange (PeX) support: ON
+(I) 2024-02-17T20:57:29 - Anonymous mode: OFF
+(I) 2024-02-17T20:57:29 - Encryption support: ON
+(I) 2024-02-17T20:57:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-02-17T20:57:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-02-17T20:57:29 - Successfully listening on IP. IP: "172.20.0.2". Port: "TCP/6881"
+(I) 2024-02-17T20:57:29 - Successfully listening on IP. IP: "172.20.0.2". Port: "UTP/6881"
+(N) 2024-02-17T20:57:29 - Restored torrent. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes"
+(N) 2024-02-17T20:57:29 - Restored torrent. Torrent: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG"
+(I) 2024-02-17T20:57:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Feb 1 04:17:55 2024.
+(N) 2024-02-17T20:57:30 - Using built-in WebUI.
+(W) 2024-02-17T20:57:30 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-02-17T20:57:30 - WebUI: Now listening on IP: *, port: 8080
+(W) 2024-02-17T20:57:30 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG". Reason: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG fast resume rejected. file_stat(/downloads/Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG/setup_mount__blade_ii_bannerlord_1.2.8.31530_(64bit)_(69856)-2.bin): mismatching file size"
+(W) 2024-02-17T20:57:30 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes". Reason: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes fast resume rejected. file_stat(/downloads/ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes/ELDEN RING/Game/Data2.bdt): mismatching file size"
+(I) 2024-02-17T20:57:31 - Detected external IP. IP: "62.217.191.71"
+(N) 2024-02-17T20:58:19 - WebAPI login success. IP: ::ffff:172.20.0.1
+(N) 2024-02-17T20:59:20 - Added new torrent. Torrent: "Mount.&.Blade.II.Bannerlord.GOG.Rip-InsaneRamZes"
+(N) 2024-02-17T21:12:07 - qBittorrent v4.6.3 started
+(N) 2024-02-17T21:12:07 - Using config directory: /config/qBittorrent
+(N) 2024-02-17T21:12:07 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-02-17T21:12:07 - Peer ID: "-qB4630-"
+(I) 2024-02-17T21:12:07 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-02-17T21:12:07 - Distributed Hash Table (DHT) support: ON
+(I) 2024-02-17T21:12:07 - Local Peer Discovery support: ON
+(I) 2024-02-17T21:12:07 - Peer Exchange (PeX) support: ON
+(I) 2024-02-17T21:12:07 - Anonymous mode: OFF
+(I) 2024-02-17T21:12:07 - Encryption support: ON
+(I) 2024-02-17T21:12:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-02-17T21:12:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-02-17T21:12:07 - Successfully listening on IP. IP: "172.20.0.2". Port: "TCP/6881"
+(I) 2024-02-17T21:12:07 - Successfully listening on IP. IP: "172.20.0.2". Port: "UTP/6881"
+(N) 2024-02-17T21:12:07 - Restored torrent. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes"
+(N) 2024-02-17T21:12:07 - Restored torrent. Torrent: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG"
+(W) 2024-02-17T21:12:07 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG". Reason: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG fast resume rejected. file_stat(/downloads/Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG/setup_mount__blade_ii_bannerlord_1.2.8.31530_(64bit)_(69856)-2.bin): mismatching file size"
+(W) 2024-02-17T21:12:07 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes". Reason: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes fast resume rejected. file_stat(/downloads/ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes/ELDEN RING/Game/Data2.bdt): mismatching file size"
+(N) 2024-02-17T21:12:08 - Restored torrent. Torrent: "Mount.&.Blade.II.Bannerlord.GOG.Rip-InsaneRamZes"
+(I) 2024-02-17T21:12:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Feb 1 04:17:55 2024.
+(N) 2024-02-17T21:12:08 - Using built-in WebUI.
+(W) 2024-02-17T21:12:08 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-02-17T21:12:08 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-02-17T21:12:08 - Detected external IP. IP: "62.217.191.71"
+(N) 2024-02-17T21:12:33 - WebAPI login success. IP: ::ffff:172.20.0.1
+(N) 2024-02-17T21:12:57 - Removed torrent. Torrent: "Mount_Blade_II_Bannerlord_v1.2.8.31530-GOG"
+(N) 2024-02-17T21:13:02 - Removed torrent. Torrent: "ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes"
+(N) 2024-02-17T23:13:50 - Torrent download finished. Torrent: "Mount.&.Blade.II.Bannerlord.GOG.Rip-InsaneRamZes"
+(N) 2024-02-19T09:09:44 - qBittorrent v4.6.3 started
+(N) 2024-02-19T09:09:44 - Using config directory: /config/qBittorrent
+(N) 2024-02-19T09:09:44 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-02-19T09:09:44 - Peer ID: "-qB4630-"
+(I) 2024-02-19T09:09:44 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2024-02-19T09:09:44 - Distributed Hash Table (DHT) support: ON
+(I) 2024-02-19T09:09:44 - Local Peer Discovery support: ON
+(I) 2024-02-19T09:09:44 - Peer Exchange (PeX) support: ON
+(I) 2024-02-19T09:09:44 - Anonymous mode: OFF
+(I) 2024-02-19T09:09:44 - Encryption support: ON
+(I) 2024-02-19T09:09:44 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-02-19T09:09:44 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-02-19T09:09:44 - Successfully listening on IP. IP: "172.20.0.2". Port: "TCP/6881"
+(I) 2024-02-19T09:09:44 - Successfully listening on IP. IP: "172.20.0.2". Port: "UTP/6881"
+(N) 2024-02-19T09:09:45 - Restored torrent. Torrent: "Mount.&.Blade.II.Bannerlord.GOG.Rip-InsaneRamZes"
+(I) 2024-02-19T09:09:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Feb 1 04:17:55 2024.
+(N) 2024-02-19T09:09:45 - Using built-in WebUI.
+(W) 2024-02-19T09:09:45 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-02-19T09:09:45 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-02-19T09:09:45 - Detected external IP. IP: "62.217.191.71"
+(W) 2024-02-19T09:09:50 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Mount.&.Blade.II.Bannerlord.GOG.Rip-InsaneRamZes". Reason: "Mount.&.Blade.II.Bannerlord.GOG.Rip-InsaneRamZes fast resume rejected. file_stat(/downloads/Mount.&.Blade.II.Bannerlord.GOG.Rip-InsaneRamZes/Mount & Blade II Bannerlord/bin/Win64_Shipping_Client/mono/lib/mono/msbuild/15.0/bin/Sdks/Microsoft.NET.Sdk.Razor/lib/netstandard2.0/_._): mismatching file size"
+(N) 2024-02-19T09:09:56 - qBittorrent termination initiated
+(N) 2024-02-19T09:09:56 - qBittorrent is now ready to exit

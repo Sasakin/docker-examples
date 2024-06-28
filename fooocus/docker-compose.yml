@@ -1,0 +1,11 @@
+version: '3'
+services:
+  fooocus:
+    build: .
+    ports:
+      - "7865:7865"
+    volumes:
+      - ./models:/app/models
+
+
+    #https://github.com/lllyasviel/Fooocus/issues/98

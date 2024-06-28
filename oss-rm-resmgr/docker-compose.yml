@@ -1,0 +1,53 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:15.3
+    ports:
+      - 5432:5432
+    volumes:
+      - ./db/init.sql:/docker-entrypoint-initdb.d/01-init.sql
+    command: postgres -c 'max_connections=1000'
+    environment:
+      POSTGRES_USER: resource_manager
+      POSTGRES_PASSWORD: 1
+      POSTGRES_DB: resource_management
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:6.2.0
+    hostname: zookeeper
+    ports:
+      - 2181:2181
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+
+  kafka:
+     image: confluentinc/cp-kafka:6.2.0
+     hostname: kafka
+     ports:
+       - 9092:9092
+     environment:
+       - KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181
+       - KAFKA_LISTENER_SECURITY_PROTOCOL_MAP=PLAINTEXT:PLAINTEXT
+       - KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://localhost:9092
+       - KAFKA_LISTENERS=PLAINTEXT://0.0.0.0:9092
+       - KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1
+       - KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS=0
+       - KAFKA_AUTO_CREATE_TOPICS_ENABLE=true
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    ports:
+      - 1080:1080
+    environment:
+      - KAFKA_CLUSTERS_0_NAME=local
+      - KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS=kafka:9092
+      - KAFKA_CLUSTERS_0_ZOOKEEPER=zookeeper:2181
+      - DYNAMIC_CONFIG_ENABLED=true
+    depends_on:
+      - kafka
+      - zookeeper
+
+
+volumes:
+  data:
+    driver: local
