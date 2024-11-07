@@ -6,6 +6,7 @@
     <groupId>com.example</groupId>
     <artifactId>my-project</artifactId>
     <version>1.0.0</version>
+    <packaging>pom</packaging>
 
     <properties>
         <java.version>11</java.version>

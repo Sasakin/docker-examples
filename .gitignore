@@ -33,5 +33,6 @@ bin/
 
 /fooocus/dev/
 /fooocus/models/
-/torrent/config/
-/sheet-sage/sheetsage/
+/dockerservices/torrent/config/
+/mlmodels/sheet-sage/sheetsage/
+**/config/**
