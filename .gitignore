@@ -17,6 +17,11 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+*.wav
+*.mp3
+*.txt
+*.doc
+*.pdf
 
 ### NetBeans ###
 /nbproject/private/
@@ -36,3 +41,4 @@ bin/
 /dockerservices/torrent/config/
 /mlmodels/sheet-sage/sheetsage/
 **/config/**
+/python/operations/audiotext/vosk/model/**
