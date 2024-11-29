@@ -1,0 +1,20 @@
+# Gradle files
+cursor-idea-plugin/.gradle/
+build/
+out/
+.gradle/
+*.jar
+*.war
+*.ear
+*.class
+*.log
+*.tmp
+
+# Local configuration file (local.properties)
+local.properties
+
+gradlew
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
