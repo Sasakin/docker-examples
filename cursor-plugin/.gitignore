@@ -3,12 +3,15 @@ cursor-idea-plugin/.gradle/
 build/
 out/
 .gradle/
+.gradle/**
+.gradle/configuration-cache/
 *.jar
 *.war
 *.ear
 *.class
 *.log
 *.tmp
+*.bin
 
 # Local configuration file (local.properties)
 local.properties
