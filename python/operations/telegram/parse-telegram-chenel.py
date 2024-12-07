@@ -1,10 +1,11 @@
 from telethon import TelegramClient
 import asyncio
+import os
 
 # Замените эти значения на свои
-api_id = '21812871'
-api_hash = 'c6a6cd2c83fd4c945e6526292edac2e4'
-channel_username = '@JuliaKhadartseva' #'@zxcsadinside'  # Например, '@my_channel' https://t.me/zxcsadinside
+api_id = os.getenv('TELEGRAM_API_ID')
+api_hash = os.getenv('TELEGRAM_API_HASH')
+channel_username = input('Введите имя канала (например, @my_channel): ')
 
 # Создаем клиент
 client = TelegramClient('session_name', api_id, api_hash)
